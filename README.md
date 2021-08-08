@@ -1,14 +1,19 @@
 # 0_theory_of_computation
 
-# sources
-* Stephen Cook introduced the precise statement of the P versus NP problem in his article ,
-    "The complexity of theorem proving procedures".[2]
-    https://www.youtube.com/watch?v=M_S_pbaMy0o
-* Theory of computation  
-    Current: https://www.youtube.com/watch?v=40i4PKpM0cI&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev&index=4
-    https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev
-    https://www.codeproject.com/Articles/1275479/State-Machine-Design-in-C
+* Formal Language Theory
+* Analysis of Algorithms
+* Complexity Theory
+* Computability Theory
+ 
 
-* Introduction to Discrete Mathematics
-    https://www.youtube.com/watch?v=p2b2Vb-cYCs&list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3
-    https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ
+# sources
+* Mathematics for Computer Science 
+    https://www.youtube.com/playlist?list=PLB7540DEDD482705B
+* Theoretical Computer Science
+    https://www.youtube.com/watch?v=8cBtv5lxtPY&list=PLCqUsBXxq16yBaN_hpo7dY2l9N-ZLtI-X&index=2
+* Theory of computation & Autotama theory
+    https://www.youtube.com/watch?v=40i4PKpM0cI&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev&index=4
+* Complexity Theory
+    https://www.youtube.com/watch?v=hQGJrCSFA44&list=PLAwxTw4SYaPl4bx7Pck4JWjy1WVbrDx0U
+* Association for Computing Machinery
+    https://www.youtube.com/channel/UCPyA0XmU6aS4JCwVoIBTmIQ
