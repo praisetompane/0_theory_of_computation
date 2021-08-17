@@ -8,14 +8,12 @@
 
 # sources
 
-* Brooklyn College Theoretical Computer Science => BC - TCS
+* Brooklyn College - Theoretical Computer Science => BC - TCS
     https://www.youtube.com/watch?v=8cBtv5lxtPY&list=PLCqUsBXxq16yBaN_hpo7dY2l9N-ZLtI-X&index=2
 
-* Theory of computation & Autotama theory
-    https://www.youtube.com/watch?v=40i4PKpM0cI&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev&index=4
+* MIT 6.045[J] - Computability and Complexity Theory - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/
 
-* Complexity Theory
-    https://www.youtube.com/watch?v=hQGJrCSFA44&list=PLAwxTw4SYaPl4bx7Pck4JWjy1WVbrDx0U
-    
+* MIT 18.404 - Theory of Computation - https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2006/
+
 * Association for Computing Machinery
     https://www.youtube.com/channel/UCPyA0XmU6aS4JCwVoIBTmIQ
