@@ -1,24 +1,27 @@
 # 0_theory_of_computation
+def: theoricatical foundations of computing systems
 
-* Formal Language Theory
-* Analysis of Algorithms
-* Complexity Theory
-* Computability Theory
- 
+core areas:
+    - automata theory
+    - complexity theory
+    - computability theory
+        they are linked by this question:
+            What are the fundamental capabilities and limitations of computers?
+
+    - automata: deals with definitions and properties of mathematical models of computation
+        the models are used in several areas of applied computer science
+        models:
+            - finiite automaton - text processing, compilers and hardware design
+            - context free grammar - programming languages and artificial intelligence
+
+    - complexity: What makes some problems computationally hard and others easy?
+    - computability: What makes some problems solvable and others not solvable by computers.
 
 # sources
 
-* Brooklyn College - Theoretical Computer Science => BC - TCS *
-    https://www.youtube.com/watch?v=8cBtv5lxtPY&list=PLCqUsBXxq16yBaN_hpo7dY2l9N-ZLtI-X&index=2
+* Introduction to the Theory of Computation, Michael Sipser
 
-* MIT 6.045[J] - Computability and Complexity Theory - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/
-
-* MIT 18.404 - Theory of Computation - https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2006/
-
-* Association for Computing Machinery
-    https://www.youtube.com/channel/UCPyA0XmU6aS4JCwVoIBTmIQ
-
-    
+* Mathematics and Computation, A Theory Revolutionizing Technology and Science. Avi Wigderson
 # Legend
 * In progress
 ** Completed
