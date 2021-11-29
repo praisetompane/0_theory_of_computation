@@ -1,4 +1,24 @@
-Definitions:
+central question: ???
+
+def: deals with DEFINITIONS and PROPERTIES of MATHEMATICAL MODELS OF COMPUTATION.
+
+provides:
+    precise definitions of computers(required by computability and complexity theory)
+
+Example models of computation:
+    1. finite automaton
+    2. context-free grammar
+
+    1. used for:
+        text processing
+        compilers
+        hardware design
+
+    2. used for:
+        programming languages
+        artification intelligence
+
+DEFINITIONS:
     
     Symbol => characters such as a, 0, 1, ", ]
 
