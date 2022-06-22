@@ -1,7 +1,8 @@
 # 0_theory_of_computation
-An attempt unpack the theoricatical foundations of computation. 
 
-**Disclaimer: This is an ongoing and incomplete project to unpack these concepts.
+unpack the theoricatical foundations of computation. 
+
+**Disclaimer**: This is an ongoing and incomplete project to unpack these concepts.
 
 ## Turing Machine:
     An abstraction of what it means to compute.
